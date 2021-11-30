@@ -20,6 +20,8 @@ jika kita perhatikan dengan seksama yang menjadi pasangan adalah
 
 ```
 
+dengan demikian array ini memiliki 4 pasang socks. jadi hasil akhirnya adalah `4`
+
 dan sisa angka yang tidak mendapat pasangan adalah
 
 ```js
@@ -46,7 +48,7 @@ Buatlah landing page dengan layout seperti gambar berikut
 
 ![alt text](./public/landing-page.png)
 
-menggunakan react js dengan folder project `yudhistira.id`. untuk referensi bisa melihat langsung layout live di kunglaw.github.io
+menggunakan react js dengan folder project `yudhistira.id`. untuk referensi bisa melihat langsung layout live di [kunglaw.github.io](kunglaw.github.io)
 
 petunjuk :
 
@@ -55,3 +57,7 @@ petunjuk :
 - usahakan warna dengan yang ada di contoh
 - menu yang di atas kanan ganti dengan `Home ProvinsiAPI` saja
 - menggunakan `react router` adalah nilai plus. dimana halaman landing dapat di akses oleh route `/` dan `/home`
+
+tips :
+
+- jangan terlalu berkutat dengan kemiripan jarak margin , padding, dan font
