@@ -52,10 +52,11 @@ menggunakan react js dengan folder project `yudhistira.id`. untuk referensi bisa
 
 petunjuk :
 
-- kalian boleh menggunakan react css framework seperti react bootstrap, tailwind, ant design dll
-- tidak terlalu mirip dengan tampilan tidak apa - apa karena mengikuti gaya css framework masing - masing
+- kalian harus menggunakan react css framework seperti react bootstrap, tailwind, ant design dll
+- tidak terlalu mirip dengan tampilan tidak apa - apa karena mengikuti gaya css framework masing - masing. usahakan layout semirip mungkin
 - usahakan warna dengan yang ada di contoh
-- menu yang di atas kanan ganti dengan `Home ProvinsiAPI` saja
+- untuk gambar , boleh menggunakan gambar apa saja.
+- menu yang di atas kanan ganti dengan `Home ProvinsiAPI` saja. `Contact` di takeout
 - menggunakan `react router` adalah nilai plus. dimana halaman landing dapat di akses oleh route `/` dan `/home`
 
 tips :
